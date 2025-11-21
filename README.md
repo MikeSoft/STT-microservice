@@ -1,6 +1,6 @@
 # STT Microservice
 
-This is a lightweight Speech-to-Text service powered by OpenAI's Whisper (stable-whisper). It converts audio files into json or subtitles. It extracts phrases with word-level timestamps, making it ideal for generating video subtitles.
+This is a lightweight Speech-to-Text service powered by Open source and local model OpenAI's Whisper (stable-whisper). It converts audio files into json or subtitles. It extracts phrases with word-level timestamps, making it ideal for generating video subtitles.
 
 ## How to Run
 
